@@ -1,0 +1,2 @@
+model,metric_scope,n_rows,threshold,f1,precision,recall
+State Horizon,pooled chronological OOF,471,0.3918626394013229,0.9829351535836177,0.9664429530201343,1.0
